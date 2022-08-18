@@ -31,3 +31,9 @@ The following where done on the Notebook analysis
           Merged DataFrames that share a common key
 
 ![bricks](https://user-images.githubusercontent.com/64482231/185492128-6b9e4e14-60cc-4eb7-b535-f319e0b61c7d.jpg)
+
+
+
+
+        The largest LEGO set ever produced has around 10,000 pieces! Apparently, only two of these boxes were ever produced, so if you wanted to get your hands on a            ridiculously large LEGO set, you'll have to settle for the 7,541 piece Millennium Falcon.
+
