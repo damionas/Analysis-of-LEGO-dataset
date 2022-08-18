@@ -37,3 +37,6 @@ The following where done on the Notebook analysis
 
         The largest LEGO set ever produced has around 10,000 pieces! Apparently, only two of these boxes were ever produced, so if you wanted to get your hands on a            ridiculously large LEGO set, you'll have to settle for the 7,541 piece Millennium Falcon.
 
+
+
+      we can see that LEGO published less than 10 different sets per year during its first few years of operation. But by 2019 the company had grown spectacularly, releasing 840 sets in that year alone!
