@@ -42,6 +42,7 @@ The following where done on the Notebook analysis
       we can see that LEGO published less than 10 different sets per year during its first few years of operation. But by 2019 the company had grown spectacularly, releasing 840 sets in that year alone!
       
       We also see that while the first 45 years or so, LEGO had some steady growth in its product offering, but it was really in the mid-1990s that the number of sets produced by the company increased dramatically! We also see a brief decline in the early 2000s and a strong recovery around 2005 in the chart.
-      
-      ![image](https://user-images.githubusercontent.com/64482231/185507607-13038b31-a435-4d3b-96c4-2a8bdfbbdd5a.png)
+
+
+![image](https://user-images.githubusercontent.com/64482231/185507697-972b5e1c-14d4-4927-9758-59c9f56e29ab.png)
 
