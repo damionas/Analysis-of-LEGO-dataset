@@ -50,3 +50,11 @@ In the chart, we can see that LEGO has pretty consistently added more and more t
 ![image](https://user-images.githubusercontent.com/64482231/185509386-f404070d-6419-4ee3-b657-8a944319e682.png)
 
 
+
+
+
+
+![image](https://user-images.githubusercontent.com/64482231/185511597-f574b1ea-5357-4fbc-ba59-703de014ec91.png)
+
+
+From the chart, we can definitely make out an upward trend in the size and complexity of the LEGO sets based on the average number of parts. In the 2010s the average set contained around 200 individual pieces, which is roughly double what average LEGO set used to contain in the 1960s.
