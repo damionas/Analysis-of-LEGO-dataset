@@ -12,3 +12,18 @@
           When did the LEGO company really take-off based on its product offering? How many themes and sets did it release every year?
 
           Did LEGO sets grow in size and complexity over time? Do older LEGO sets tend to have more or fewer parts than newer sets?
+         
+ 
+ 
+The following where done on the Notebook analysis
+          Combined my Notebook with a HTML Markup.
+
+          Applied Python List slicing techniques to Pandas DataFrames.
+
+          Aggregated my data
+
+          Created scatter plots, bar charts, and line charts with two axes in Matplotlib.
+
+          Related database schemas that are organised by primary and foreign keys.
+
+          Merged DataFrames that share a common key
