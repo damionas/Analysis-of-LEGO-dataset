@@ -16,6 +16,8 @@
  
  
 The following where done on the Notebook analysis
+         
+         
           Combined my Notebook with a HTML Markup.
 
           Applied Python List slicing techniques to Pandas DataFrames.
