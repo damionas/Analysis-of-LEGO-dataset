@@ -46,3 +46,7 @@ The following where done on the Notebook analysis
 
 ![image](https://user-images.githubusercontent.com/64482231/185507697-972b5e1c-14d4-4927-9758-59c9f56e29ab.png)
 
+In the chart, we can see that LEGO has pretty consistently added more and more themes until the mid-1990s. From then the number of themes has stagnated for around 10 years or so until the early 2010s.
+![image](https://user-images.githubusercontent.com/64482231/185509386-f404070d-6419-4ee3-b657-8a944319e682.png)
+
+
