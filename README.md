@@ -29,3 +29,5 @@ The following where done on the Notebook analysis
           Related database schemas that are organised by primary and foreign keys.
 
           Merged DataFrames that share a common key
+
+![bricks](https://user-images.githubusercontent.com/64482231/185492128-6b9e4e14-60cc-4eb7-b535-f319e0b61c7d.jpg)
